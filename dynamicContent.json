@@ -1,0 +1,68 @@
+{
+  "Organisation": "ShivinShubham",
+  "Appdetails": [
+    {
+      "Platform": "WindowsUWP",
+      "AppName": "playin",
+      "AppLabel": "Play in",
+      "AppId": "9NBLGGGZND2B",
+      "AddOnPremiumStoreId": "9NVK7G87F4HC",
+      "AddOnRemoveAdsStoreId": "9NS6QKXD9GLR",
+      "AppCenterKey": "810fe76f-c6de-48fa-ad0d-06caa3d0de91",
+      "LabelWelcome" : "Welcome",
+      "LabelWelcomeStart" : "Hit play icon at bottom to get started",
+      "AdsLeft": {
+        "Enabled": "true",
+        "Link": "https://www.instagram.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif"
+
+      },
+      "AdsRight": {
+        "Enabled": "true",
+        "Link": "https://www.facebook.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif"
+
+      },
+      "AdsBottom": {
+        "Enabled": "false",
+        "Link": "https://500px.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif"
+
+      }
+    },
+    {
+      "Platform": "WindowsUWP",
+      "AppName": "bluzic",
+      "AppLabel": "Bluzic",
+      "AppId": "9N46QRZC07WD",
+      "AddOnPremiumStoreId": "9N16WRKW8S6K",
+      "AddOnRemoveAdsStoreId": "9PMX4CCPFRDT",
+      "AppCenterKey": "647985dd-5831-4728-b740-ca527d473a84",
+      "LabelWelcome" : "Welcome",
+      "LabelWelcomeStart" : "Hit play icon at bottom to get started",
+      "AdsLeft": {
+        "Enabled": "true",
+        "Link": "https://www.instagram.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
+        "Width": "480",
+        "Tooltip": "Go to Settings to remove this advertisement"
+
+      },
+      "AdsRight": {
+        "Enabled": "true",
+        "Link": "https://www.facebook.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
+        "Width": "480",
+        "Tooltip": "Go to Settings to remove this advertisement"
+
+      },
+      "AdsBottom": {
+        "Enabled": "false",
+        "Link": "https://500px.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
+        "Width": "720",
+        "Tooltip": "Go to Settings to remove this advertisement"
+      }
+    }
+  ]
+}
