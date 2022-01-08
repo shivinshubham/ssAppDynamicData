@@ -18,7 +18,7 @@
     {
       "Platform": "WindowsUWP",
       "AppName": "playin",
-      "AppTopLabel": "Play in",
+      "AppTopLabel": "Play work",
       "LabelWelcome" : "Welcome",
       "LabelWelcomeStart" : "Hit play icon at bottom to get started",
       "SettingSupport" : "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
