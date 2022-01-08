@@ -1,6 +1,7 @@
 {
   "Organisation": "ShivinShubham",
-  "Version" : "1",
+  "Version": "1",
+  "ShivinShubhamLogo": null,
   "AppSettings": {
     "OurProducts": "https://sites.google.com/site/shivinshubham/our-products",
     "PrivacyStatement": "https://sites.google.com/site/shivinshubham/our-solutions",
@@ -19,10 +20,10 @@
       "Platform": "WindowsUWP",
       "AppName": "playin",
       "AppTopLabel": "Play in",
-      "LabelWelcome" : "Welcome",
-      "LabelWelcomeStart" : "Hit play icon at bottom to get started",
-      "SettingSupport" : "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
-      "SettingSupportEmail" : "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
+      "LabelWelcome": "Welcome",
+      "LabelWelcomeStart": "Hit play icon at bottom to get started",
+      "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
+      "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
@@ -52,10 +53,10 @@
       "Platform": "WindowsUWP",
       "AppName": "bluzic",
       "AppTopLabel": "Bluzic",
-      "LabelWelcome" : "Welcome",
-      "LabelWelcomeStart" : "Hit play icon at bottom to get started",
-      "SettingSupport" : "https://sites.google.com/site/shivinshubham/helpdesk/support-bluzic-app",
-      "SettingSupportEmail" : "mailto:shivinshubham@outlook.com?subject=Sent from Bluzic app",
+      "LabelWelcome": "Welcome",
+      "LabelWelcomeStart": "Hit play icon at bottom to get started",
+      "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-bluzic-app",
+      "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Bluzic app",
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
