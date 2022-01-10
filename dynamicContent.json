@@ -19,9 +19,9 @@
     {
       "Platform": "WindowsUWP",
       "AppName": "playin",
-      "AppTopLabel": "Play in",
-      "LabelWelcome": "Welcome",
-      "LabelWelcomeStart": "Hit play icon at bottom to get started",
+      "AppTopLabel": "Play ins",
+      "LabelWelcome": "Welcomes",
+      "LabelWelcomeStart": "Hit play icon at bottom to get starteds",
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
       "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
       "AdsLeft": {
@@ -41,7 +41,7 @@
 
       },
       "AdsBottom": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://500px.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "720",
