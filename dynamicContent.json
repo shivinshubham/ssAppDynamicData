@@ -19,44 +19,11 @@
     {
       "Platform": "WindowsUWP",
       "AppName": "playin",
-      "AppTopLabel": "Play ins",
-      "LabelWelcome": "Welcomes",
-      "LabelWelcomeStart": "Hit play icon at bottom to get starteds",
-      "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
-      "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
-      "AdsLeft": {
-        "Enabled": "true",
-        "Link": "https://www.instagram.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
-        "Width": "480",
-        "Tooltip": "Go to Settings to remove this advertisement"
-
-      },
-      "AdsRight": {
-        "Enabled": "true",
-        "Link": "https://www.facebook.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
-        "Width": "480",
-        "Tooltip": "Go to Settings to remove this advertisement"
-
-      },
-      "AdsBottom": {
-        "Enabled": "true",
-        "Link": "https://500px.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
-        "Width": "720",
-        "Tooltip": "Go to Settings to remove this advertisement"
-
-      }
-    },
-    {
-      "Platform": "WindowsUWP",
-      "AppName": "bluzic",
-      "AppTopLabel": "Bluzic",
+      "AppTopLabel": "Play in",
       "LabelWelcome": "Welcome",
       "LabelWelcomeStart": "Hit play icon at bottom to get started",
-      "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-bluzic-app",
-      "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Bluzic app",
+      "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
+      "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
@@ -78,6 +45,42 @@
         "Link": "https://500px.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "720",
+        "Tooltip": "Go to Settings to remove this advertisement"
+
+      }
+    },
+    {
+      "Platform": "WindowsUWP",
+      "AppName": "bluzic",
+      "AppTopLabel": "Bluzic",
+      "LabelWelcome": "Welcome",
+      "LabelWelcomeStart": "Hit play icon at bottom to get started",
+      "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-bluzic-app",
+      "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Bluzic app",
+      "AdsLeft": {
+        "Enabled": "true",
+        "Link": "https://www.instagram.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
+        "Width": "420",
+        "Height": "60",
+        "Tooltip": "Go to Settings to remove this advertisement"
+
+      },
+      "AdsRight": {
+        "Enabled": "true",
+        "Link": "https://www.facebook.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
+        "Width": "420",
+        "Height": "60",
+        "Tooltip": "Go to Settings to remove this advertisement"
+
+      },
+      "AdsBottom": {
+        "Enabled": "false",
+        "Link": "https://500px.com/cropshutter",
+        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
+        "Width": "420",
+        "Height": "60",
         "Tooltip": "Go to Settings to remove this advertisement"
       }
     }
