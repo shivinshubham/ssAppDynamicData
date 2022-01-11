@@ -19,8 +19,8 @@
     {
       "Platform": "WindowsUWP",
       "AppName": "playin",
-      "AppTopLabel": "Play in",
-      "LabelWelcome": "Welcome",
+      "AppTopLabel": "Play ins",
+      "LabelWelcome": "Welcomes",
       "LabelWelcomeStart": "Hit play icon at bottom to get started",
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
       "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
@@ -39,7 +39,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
         "Width": "420",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "Go to Settings to remove this advertisements"
 
       },
       "AdsBottom": {
@@ -48,7 +48,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "420",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "Go to Settings to remove this advertisements"
 
       }
     },
