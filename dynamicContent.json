@@ -73,7 +73,7 @@
         "Enabled": "true",
         "Link": "https://www.facebook.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
-        "Width": "420",
+        "Width": "480",
         "Height": "60",
         "Tooltip": "Go to Settings to remove this advertisement"
 
@@ -82,7 +82,7 @@
         "Enabled": "false",
         "Link": "https://500px.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
-        "Width": "420",
+        "Width": "480",
         "Height": "60",
         "Tooltip": "Go to Settings to remove this advertisement"
       }
