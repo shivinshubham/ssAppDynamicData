@@ -79,7 +79,7 @@
 
       },
       "AdsBottom": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://500px.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "480",
