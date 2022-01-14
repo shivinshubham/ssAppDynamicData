@@ -30,7 +30,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsRight": {
@@ -39,7 +39,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsBottom": {
@@ -48,7 +48,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       }
     },
@@ -66,7 +66,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsRight": {
@@ -75,7 +75,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsBottom": {
@@ -84,7 +84,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "Go to Settings to remove this advertisement"
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
       }
     }
   ]
