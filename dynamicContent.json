@@ -19,7 +19,7 @@
     {
       "Platform": "WindowsUWP",
       "AppName": "playin",
-      "AppTopLabel": "50% discount on Premium features (5 days left) - Play in",
+      "AppTopLabel": "50% discount on Premium features (4 days left) - Play in",
       "LabelWelcome": "Welcome",
       "LabelWelcomeStart": "Hit play icon at bottom to get started",
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
@@ -55,7 +55,7 @@
     {
       "Platform": "WindowsUWP",
       "AppName": "bluzic",
-      "AppTopLabel": "50% discount on Premium features (5 days left) - Bluzic",
+      "AppTopLabel": "50% discount on Premium features (4 days left) - Bluzic",
       "LabelWelcome": "Welcome",
       "LabelWelcomeStart": "Hit play icon at bottom to get started",
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-bluzic-app",
