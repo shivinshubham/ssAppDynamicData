@@ -19,9 +19,9 @@
     {
       "Platform": "WindowsUWP",
       "AppName": "playin",
-      "AppTopLabel": "50% discount on all purchases (Premium or Ads) (last day) - Play in",
-      "LabelWelcome": "Happy Easter Day!",
-      "LabelWelcomeStart": "Grab 50% discount on all purchases",
+      "AppTopLabel": "Play in",
+      "LabelWelcome": "Welcome",
+      "LabelWelcomeStart": "Hit play icon at bottom to get started",
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
       "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
       "AdsLeft": {
@@ -30,7 +30,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "50% discount! To remove all advertisements, either enable Premium features or go to Settings."
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsRight": {
@@ -39,7 +39,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "50% discount! To remove all advertisements, either enable Premium features or go to Settings."
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsBottom": {
@@ -48,16 +48,16 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "50% discount! To remove all advertisements, either enable Premium features or go to Settings."
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       }
     },
     {
       "Platform": "WindowsUWP",
       "AppName": "bluzic",
-      "AppTopLabel": "50% discount on all purchases (Premium or Ads) (last day) - Bluzic",
-      "LabelWelcome": "Happy Easter Day!",
-      "LabelWelcomeStart": "Grab 50% discount on all purchases",
+      "AppTopLabel": "Bluzic",
+      "LabelWelcome": "Welcome",
+      "LabelWelcomeStart": "Hit play icon at bottom to get started",
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-bluzic-app",
       "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Bluzic app",
       "AdsLeft": {
@@ -66,7 +66,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "50% discount! To remove all advertisements, either enable Premium features or go to Settings."
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsRight": {
@@ -75,7 +75,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "50% discount! To remove all advertisements, either enable Premium features or go to Settings."
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
 
       },
       "AdsBottom": {
@@ -84,7 +84,7 @@
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
         "Width": "480",
         "Height": "60",
-        "Tooltip": "50% discount! To remove all advertisements, either enable Premium features or go to Settings."
+        "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
       }
     }
   ]
