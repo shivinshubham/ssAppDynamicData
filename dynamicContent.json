@@ -25,7 +25,7 @@
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-play-in-app",
       "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
       "MediaPlayerSource" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayinFHD.mp4",
-      "ShowYouTubeVideo" : "true",
+      "ShowYouTubeVideo" : "false",
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
