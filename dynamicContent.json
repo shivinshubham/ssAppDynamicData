@@ -95,8 +95,8 @@
  "UNdays": {
           "Enabled": "true",
           "Data": [
-              ["true","1","1","Happy New Year","","https://www.bing.com"],
-              ["true","1","4","World Braille Day","","https://www.un.org/en/observances/braille-day"],
+              ["true","1","1","Happy New Year","Happy New Year","https://www.bing.com"],
+              ["true","1","4","World Braille Day","World Braille Day","https://www.un.org/en/observances/braille-day"],
               ["true","1","26","India's Republic Day","Happy Republic Day of India","https://www.india.gov.in/"],
               ["true","2","2","World Wetlands Day","World Wetlands Day","https://www.un.org/en/observances/world-wetlands-day"],
               ["true","2","4","International Day of Human Fraternity","International Day of Human Fraternity","https://www.un.org/en/observances/human-fraternity"],
