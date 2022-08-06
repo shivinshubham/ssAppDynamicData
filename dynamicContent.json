@@ -27,6 +27,43 @@
       "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Play in app",
       "MediaPlayerSource" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayinFHD.mp4",
       "ShowYouTubeVideo" : "true",
+      "Controllers": {
+        "Enabled": "true",
+        "TopMessage" : "Search and download for DLNA apps in various apps store.",
+        "BottomMessage" : "There are more apps available in various stores and some <LineBreak/>of the apps are pre-installed on devices like camera, etc.",
+        "Android": {
+            "Enabled" : "true",
+            "Namw" : "Android",
+            "MoreText" : "more Android apps >",
+            "MoreLink" : "https://play.google.com/store/search?q=dlna",
+            "Details":{
+                "App1Enabled" : "true",
+                "App1Name" : "Bubble UPnP (Bubblesoft)",
+                "App1Link" :  "https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp",
+                "App1Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_Android_BubbleUPnP.png",
+                "App2Enabled" : true,
+                "App2Name" : "Cast to TV (InShot Inc.)",
+                "App2Link" :  "https://play.google.com/store/apps/details?id=cast.video.screenmirroring.casttotv",
+                "App2Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_Android_CastToTV.png"
+            }
+        },
+        "iOS": {
+            "Enabled" : "true",
+            "Namw" : "iOS",
+            "MoreText" : "more iOS apps >",
+            "MoreLink" : "https://www.apple.com/search/dlna?src=serp",
+            "Details":{
+                "App1Enabled" : "true",
+                "App1Name" : "TV Cast for DLNA Player",
+                "App1Link" :  "https://apps.apple.com/us/app/tv-cast-for-dlna-player/id978357787",
+                "App1Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_iOS_TVCastforDLNAPlayer.png",
+                "App1Enabled" : "true",
+                "App1Name" : "iMediaShare",
+                "App1Link" :  "https://apps.apple.com/us/app/imediashare/id710578942",
+                "App1Image" : "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/PlayIn_QR_iOS_iMediaShare.png",
+            }
+        }
+      },
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
@@ -34,7 +71,6 @@
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Personalization or Premium features or go to Settings."
-
       },
       "AdsRight": {
         "Enabled": "true",
@@ -43,7 +79,6 @@
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Personalization or Premium features or go to Settings."
-
       },
       "AdsBottom": {
         "Enabled": "true",
