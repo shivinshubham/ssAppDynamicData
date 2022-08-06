@@ -31,12 +31,12 @@
         "Enabled": "true",
         "TopMessage" : "Search and download for DLNA apps in various apps store.",
         "BottomMessage" : "There are more apps available in various stores and some <LineBreak/>of the apps are pre-installed on devices like camera, etc.",
-        "Android": {
+        "ControllerAndroid": {
             "Enabled" : "true",
             "Namw" : "Android",
             "MoreText" : "more Android apps >",
             "MoreLink" : "https://play.google.com/store/search?q=dlna",
-            "Details":{
+            "AndroidAppDetails":{
                 "App1Enabled" : "true",
                 "App1Name" : "Bubble UPnP (Bubblesoft)",
                 "App1Link" :  "https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp",
@@ -47,12 +47,12 @@
                 "App2Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_Android_CastToTV.png"
             }
         },
-        "iOS": {
+        "ControlleriOS": {
             "Enabled" : "true",
             "Namw" : "iOS",
             "MoreText" : "more iOS apps >",
             "MoreLink" : "https://www.apple.com/search/dlna?src=serp",
-            "Details":{
+            "iOSAppDetails":{
                 "App1Enabled" : "true",
                 "App1Name" : "TV Cast for DLNA Player",
                 "App1Link" :  "https://apps.apple.com/us/app/tv-cast-for-dlna-player/id978357787",
