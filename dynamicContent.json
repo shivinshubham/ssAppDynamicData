@@ -33,7 +33,7 @@
         "BottomMessage" : "There are more apps available in various stores and some <LineBreak/>of the apps are pre-installed on devices like camera, etc.",
         "ControllerAndroid": {
             "Enabled" : "true",
-            "Namw" : "Android",
+            "Name" : "Android",
             "MoreText" : "more Android apps >",
             "MoreLink" : "https://play.google.com/store/search?q=dlna",
             "AndroidAppDetails":{
@@ -49,7 +49,7 @@
         },
         "ControlleriOS": {
             "Enabled" : "true",
-            "Namw" : "iOS",
+            "Name" : "iOS",
             "MoreText" : "more iOS apps >",
             "MoreLink" : "https://www.apple.com/search/dlna?src=serp",
             "iOSAppDetails":{
@@ -57,10 +57,10 @@
                 "App1Name" : "TV Cast for DLNA Player",
                 "App1Link" :  "https://apps.apple.com/us/app/tv-cast-for-dlna-player/id978357787",
                 "App1Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_iOS_TVCastforDLNAPlayer.png",
-                "App1Enabled" : "true",
-                "App1Name" : "iMediaShare",
-                "App1Link" :  "https://apps.apple.com/us/app/imediashare/id710578942",
-                "App1Image" : "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/PlayIn_QR_iOS_iMediaShare.png",
+                "App2Enabled" : "true",
+                "App2Name" : "iMediaShare",
+                "App2Link" :  "https://apps.apple.com/us/app/imediashare/id710578942",
+                "App2Image" : "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/PlayIn_QR_iOS_iMediaShare.png",
             }
         }
       },
