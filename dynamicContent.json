@@ -97,12 +97,12 @@
       "AppName": "bluzic",
       "AppTopLabel": "Bluzic",
       "LabelWelcome": "Welcome",
-      "LabelWelcomeEnabled": "false",
+      "LabelWelcomeEnabled": "true",
       "LabelWelcomeStart": "Hit play icon at bottom to get started",
       "SettingSupport": "https://sites.google.com/site/shivinshubham/helpdesk/support-bluzic-app",
       "SettingSupportEmail": "mailto:shivinshubham@outlook.com?subject=Sent from Bluzic app",
       "MediaPlayerSource" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/BluzicIntroFHD.mp4",
-      "ShowYouTubeVideo" : "true",
+      "ShowYouTubeVideo" : "false",
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
@@ -113,7 +113,7 @@
 
       },
       "AdsRight": {
-        "Enabled": "true",
+        "Enabled": "false",
         "Link": "https://www.facebook.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
         "Width": "480",
