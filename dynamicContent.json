@@ -37,7 +37,7 @@
             "MoreText" : "more Android apps >",
             "MoreLink" : "https://play.google.com/store/search?q=dlna",
             "AndroidAppDetails":{
-                "App1Enabled" : "true",
+                "App1Enabled" : "false",
                 "App1Name" : "Bubble UPnP (Bubblesoft)",
                 "App1Link" :  "https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp",
                 "App1Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_Android_BubbleUPnP.png",
