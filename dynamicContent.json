@@ -30,14 +30,14 @@
       "Controllers": {
         "Enabled": "true",
         "TopMessage" : "Search and download for DLNA apps in various apps store.",
-        "BottomMessage" : "There are more apps available in various stores and some <LineBreak/>of the apps are pre-installed on devices like camera, etc.",
+        "BottomMessage" : "There are more apps available in various stores and some of the apps are pre-installed on devices like camera, etc.",
         "ControllerAndroid": {
             "Enabled" : "true",
             "Name" : "Android",
             "MoreText" : "more Android apps >",
             "MoreLink" : "https://play.google.com/store/search?q=dlna",
             "AndroidAppDetails":{
-                "App1Enabled" : "false",
+                "App1Enabled" : "true",
                 "App1Name" : "Bubble UPnP (Bubblesoft)",
                 "App1Link" :  "https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp",
                 "App1Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_Android_BubbleUPnP.png",
