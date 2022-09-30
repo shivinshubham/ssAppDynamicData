@@ -60,7 +60,7 @@
                 "App2Enabled" : "true",
                 "App2Name" : "iMediaShare",
                 "App2Link" :  "https://apps.apple.com/us/app/imediashare/id710578942",
-                "App2Image" : "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/PlayIn_QR_iOS_iMediaShare.png",
+                "App2Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_iOS_iMediaShare.png",
             }
         }
       },
