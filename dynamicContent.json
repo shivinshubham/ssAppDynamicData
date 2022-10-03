@@ -32,7 +32,7 @@
         "TopMessage" : "Search and download for DLNA apps in various apps store.",
         "BottomMessage" : "There are more apps available in various stores and some of the apps are pre-installed on devices like camera, etc.",
         "ControllerAndroid": {
-            "Enabled" : "false",
+            "Enabled" : "true",
             "Name" : "Android",
             "MoreText" : "more Android apps >",
             "MoreLink" : "https://play.google.com/store/search?q=dlna",
@@ -48,7 +48,7 @@
             }
         },
         "ControlleriOS": {
-            "Enabled" : "false",
+            "Enabled" : "true",
             "Name" : "iOS",
             "MoreText" : "more iOS apps >",
             "MoreLink" : "https://www.apple.com/search/dlna?src=serp",
