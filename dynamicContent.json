@@ -67,7 +67,7 @@
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayInPortraitLeftAds.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -76,7 +76,7 @@
       "AdsRight": {
         "Enabled": "true",
         "Link": "https://www.facebook.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayInPortraitRightAds.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -85,7 +85,7 @@
       "AdsBottom": {
         "Enabled": "true",
         "Link": "https://500px.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayInLandscapeAds.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
