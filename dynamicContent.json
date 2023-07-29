@@ -85,7 +85,7 @@
       "AdsBottom": {
         "Enabled": "true",
         "Link": "https://500px.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/d8ba636d0d71fab992a6b045e28e17e9655de91d/dynamicFiles/PlayInLandscapeAds.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
