@@ -65,7 +65,7 @@
         }
       },
       "AdsLeft": {
-        "Enabled": "true",
+        "Enabled": "false",
         "Link": "https://www.instagram.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
         "Width": "480",
@@ -74,7 +74,7 @@
 
       },
       "AdsRight": {
-        "Enabled": "true",
+        "Enabled": "false",
         "Link": "https://www.facebook.com/cropshutter",
         "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
         "Width": "480",
@@ -83,7 +83,7 @@
 
       },
       "AdsBottom": {
-        "Enabled": "true",
+        "Enabled": "false",
         "Link": "https://500px.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/d8ba636d0d71fab992a6b045e28e17e9655de91d/dynamicFiles/PlayInLandscapeAds.gif?raw=true",
         "Width": "480",
