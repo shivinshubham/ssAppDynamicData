@@ -60,14 +60,14 @@
                 "App2Enabled" : "true",
                 "App2Name" : "iMediaShare",
                 "App2Link" :  "https://apps.apple.com/us/app/imediashare/id710578942",
-                "App2Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_iOS_iMediaShare.png",
+                "App2Image" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/PlayIn_QR_iOS_iMediaShare.png"
             }
         }
       },
       "AdsLeft": {
         "Enabled": "false",
         "Link": "https://www.instagram.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -76,7 +76,7 @@
       "AdsRight": {
         "Enabled": "false",
         "Link": "https://www.facebook.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -84,8 +84,8 @@
       },
       "AdsBottom": {
         "Enabled": "false",
-        "Link": "https://500px.com/cropshutter",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/d8ba636d0d71fab992a6b045e28e17e9655de91d/dynamicFiles/PlayInLandscapeAds.gif?raw=true",
+        "Link": "https://www.microsoft.com/store/apps/9N46QRZC07WD",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsBottomBluzic.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -106,7 +106,7 @@
       "AdsLeft": {
         "Enabled": "false",
         "Link": "https://www.instagram.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitLeftAds.gif",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -115,7 +115,7 @@
       "AdsRight": {
         "Enabled": "false",
         "Link": "https://www.facebook.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInPortraitRightAds.gif",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -123,8 +123,8 @@
       },
       "AdsBottom": {
         "Enabled": "false",
-        "Link": "https://500px.com/cropshutter",
-        "Image": "https://8db5df00-a-62cb3a1a-s-sites.googlegroups.com/site/shivinshubham/PlayInLandscapeAds.gif",
+        "Link": "https://www.microsoft.com/store/apps/9NBLGGGZND2B",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/AdsBottomPlayIn.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
