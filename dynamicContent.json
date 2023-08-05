@@ -65,7 +65,7 @@
         }
       },
       "AdsLeft": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
@@ -74,7 +74,7 @@
 
       },
       "AdsRight": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://www.facebook.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
@@ -83,7 +83,7 @@
 
       },
       "AdsBottom": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://www.microsoft.com/store/apps/9N46QRZC07WD",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsBottomBluzic.gif?raw=true",
         "Width": "480",
@@ -104,7 +104,7 @@
       "MediaPlayerSource" : "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/BluzicIntroFHD.mp4",
       "ShowYouTubeVideo" : "true",
       "AdsLeft": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://www.instagram.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
@@ -113,7 +113,7 @@
 
       },
       "AdsRight": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://www.facebook.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
@@ -122,7 +122,7 @@
 
       },
       "AdsBottom": {
-        "Enabled": "false",
+        "Enabled": "true",
         "Link": "https://www.microsoft.com/store/apps/9NBLGGGZND2B",
         "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/AdsBottomPlayIn.gif",
         "Width": "480",
