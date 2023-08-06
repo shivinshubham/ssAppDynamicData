@@ -67,7 +67,7 @@
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.incredibleindia.org",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftIndia.gif?raw=true",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -76,7 +76,7 @@
       "AdsRight": {
         "Enabled": "true",
         "Link": "https://knowindia.india.gov.in",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightIndia.gif?raw=true",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -106,7 +106,7 @@
       "AdsLeft": {
         "Enabled": "true",
         "Link": "https://www.incredibleindia.org",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftIndia.gif?raw=true",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -115,7 +115,7 @@
       "AdsRight": {
         "Enabled": "true",
         "Link": "https://knowindia.india.gov.in",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightIndia.gif?raw=true",
+        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
