@@ -66,7 +66,7 @@
       },
       "AdsLeft": {
         "Enabled": "true",
-        "Link": "https://www.incredibleindia.org",
+        "Link": "ttps://www.instagram.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
@@ -75,7 +75,7 @@
       },
       "AdsRight": {
         "Enabled": "true",
-        "Link": "https://knowindia.india.gov.in",
+        "Link": "https://www.facebook.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
@@ -105,7 +105,7 @@
       "ShowYouTubeVideo" : "true",
       "AdsLeft": {
         "Enabled": "true",
-        "Link": "https://www.incredibleindia.org",
+        "Link": "ttps://www.instagram.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
@@ -114,7 +114,7 @@
       },
       "AdsRight": {
         "Enabled": "true",
-        "Link": "https://knowindia.india.gov.in",
+        "Link": "https://www.facebook.com/cropshutter",
         "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif?raw=true",
         "Width": "480",
         "Height": "60",
