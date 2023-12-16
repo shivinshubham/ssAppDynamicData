@@ -67,7 +67,7 @@
       "AdsLeft": {
         "Enabled": "true",
         "Link": "ttps://www.instagram.com/cropshutter",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/AdsLeftCS.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -76,7 +76,7 @@
       "AdsRight": {
         "Enabled": "true",
         "Link": "https://www.facebook.com/cropshutter",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/AdsRightCS.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -85,7 +85,7 @@
       "AdsBottom": {
         "Enabled": "true",
         "Link": "https://www.microsoft.com/store/apps/9N46QRZC07WD",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsBottomBluzic.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/AdsBottomBluzic.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -106,7 +106,7 @@
       "AdsLeft": {
         "Enabled": "true",
         "Link": "ttps://www.instagram.com/cropshutter",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsLeftCS.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/AdsLeftCS.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
@@ -115,7 +115,7 @@
       "AdsRight": {
         "Enabled": "true",
         "Link": "https://www.facebook.com/cropshutter",
-        "Image": "https://github.com/shivinshubham/ssAppDynamicData/blob/main/dynamicFiles/AdsRightCS.gif",
+        "Image": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/dynamicFiles/AdsRightCS.gif",
         "Width": "480",
         "Height": "60",
         "Tooltip": "To remove all advertisements, either enable Premium features or go to Settings."
