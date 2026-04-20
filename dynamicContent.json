@@ -3,20 +3,21 @@
   "Version": "1",
   "ShivinShubhamLogo": "https://raw.githubusercontent.com/shivinshubham/ssAppDynamicData/main/SSlogoName.png",
   "AppSettings": {
-    "OurProducts": "https://www.shivinshubham.com/our-products",
+    "OurProducts": "https://www.shivinshubham.com/products",
     "PrivacyStatement": "https://www.shivinshubham.com/privacy-policy",
     "PoweredByShivinShubham": "https://www.shivinshubham.com",
+    "Instagram": "https://www.instagram.com/shivinshubham",
     "Facebook": "https://www.facebook.com/shivinshubham",
-    "YouTube": "http://www.youtube.com/channel/UCe1nLmvvfRGMHXy2OMy8-OQ",
+    "YouTube": "https://www.youtube.com/@shivinshubham",
     "LinkedIn": "https://www.linkedin.com/company/shivinshubham",
     "Twitter": "https://www.twitter.com/shivinshubham",
     "Pinterest": "https://www.pinterest.com/shivinshubham",
     "Threads": "https://www.threads.com/@shivinshubham",
     "WhatsApp": "https://www.whatsapp.com/channel/0029VbBjwaqKAwEj8wSJRw1f",
-    "CropShutter": "https://www.instagram.com/cropshutter",
-    "EraOfMicrosoft": "https://www.microsoft.com/store/apps/9wzdncrdnw2f",
-    "BirthdaySays": "https://www.microsoft.com/store/apps/9wzdncrcstxd",
-    "ShivinShubhamApp": "https://www.microsoft.com/store/apps/9nblgggzxzfj"
+    "CropShutter": "https://cropshutter.shivinshubham.com",
+    "EraOfMicrosoft": "https://www.shivinshubham.com/products/microsoft-history",
+    "BirthdaySays": "https://www.shivinshubham.com/products/birthday-says",
+    "ShivinShubhamApp": "https://www.shivinshubham.com/products#h.coaihvc3tr6e"
   },
   "Appdetails": [
     {
